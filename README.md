@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darren</h1>
-<h3 align="center">A student within the software engineering field</h3>
+<h3 align="center">A student attending Code Platoon, a fullstack software engineering program</h3>
 
 - 🔭 I’m currently working on [Coding Challenges](https://www.codewars.com/users/DarrenBerg)
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Coding Challenges](https://www.codewars.com/users/DarrenBerg)
 
-- 🌱 I’m currently learning **Javascript, Python, Git/GitHub**
+- 🌱 I’m currently learning **Javascript, Python, and Django.**
 
 - 👯 I’m looking to collaborate on **Beginner Projects**
 

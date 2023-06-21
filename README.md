@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Python, and Django.**
 
-- 👯 I’m looking to collaborate on **Beginner Projects**
+- 👯 I’m looking to collaborate on **Projects**
 
 - 📫 How to reach me **darrenberg50@gmail.com**
 

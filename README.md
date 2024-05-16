@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Darren</h1>
-<h3 align="center">A Full Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on [Coding Challenges](https://www.codewars.com/users/DarrenBerg)
 
-- 🌱 I’m currently learning **Javascript, React, SASS (SCSS), Jest, and Redux.**
-
-- 👯 I’m looking to collaborate on **Projects**
+- 🌱 I’m currently learning **Javascript and React **
 
 - 📫 How to reach me **darrenberg50@gmail.com**
 
